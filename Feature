@@ -1,0 +1,8 @@
+
+Features:
+
+Serve static files (HTML, CSS, images) from a specified directory.
+Handle HTTP GET requests.
+Display a simple HTML page when accessing the root URL.
+Return 404 Not Found error for invalid URLs.
+Support for basic MIME types (text/html, text/css, image/jpeg, image/png).
