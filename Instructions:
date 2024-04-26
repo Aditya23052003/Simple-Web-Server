@@ -1,0 +1,6 @@
+Instructions:
+
+Create a directory named static in the same directory as the Python script.
+Place your static files (HTML, CSS, images) inside the static directory.
+Run the Python script, and the server will start running on the specified port (default is 8000).
+Access the server in your web browser by navigating to http://localhost:8000.
